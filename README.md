@@ -5,7 +5,6 @@
 <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=ooraf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="ooraf's GitHub stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooraf&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ooraf&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ooraf&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" /> </p>
 🐍 Contribution Snake
 <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ooraf/ooraf/output/github-contribution-grid-snake-dark.svg" /> <img alt="contribution-snake" src="https://raw.githubusercontent.com/ooraf/ooraf/output/github-contribution-grid-snake.svg" /> </picture> </p>
-⚠️ Erscheint erst, nachdem die GitHub Action (Setup unten) einmal gelaufen ist.
 
 📌 Featured Projects
 🎮 jump-game — Browser-Spiel in JavaScript
